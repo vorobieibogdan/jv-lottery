@@ -1,3 +1,5 @@
+package core.basesyntax;
+
 import java.util.Random;
 
 public class Lottery {
@@ -11,3 +13,4 @@ public class Lottery {
         return new Ball(color, number);
     }
 }
+
